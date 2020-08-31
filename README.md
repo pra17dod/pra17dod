@@ -17,7 +17,7 @@ Interesting:<br>
 
 ![Prashant's github stats](https://github-readme-stats.vercel.app/api?username=pra17dod&theme=dark&show_icons=true&&count_private=true&hide=stars)
 
-<p> <img src="https://komarev.com/ghpvc/?username=pra17dod&color=blue" alt="counter" /> </p>
+<p> <img src="https://komarev.com/ghpvc/?username=pra17dod&color=grey" alt="counter" /> </p>
 
 
 
@@ -31,7 +31,7 @@ Ping me on any of these: <br>
 
 
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pra17dod)](https://github.com/pra17dod/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pra17dod)](https://github.com/pra17dod/github-readme-stats&theme=dark)
 
 
 
