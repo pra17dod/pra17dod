@@ -1,6 +1,6 @@
-## Prashant Dodiya
+
 ### Namaste <img src="https://img.icons8.com/emoji/24/000000/folded-hands-light-skin-tone.png"/>
-#### I am highly fascinated with open-source and development
+#### I am highly fascinated with open-source and development and <br> making efforts to reach closer to the farthest
 
 ##### Languages I prefer:<br>
 <ul>
