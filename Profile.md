@@ -1,14 +1,15 @@
 ## My Profile
-### Namaste <img src="https://img.icons8.com/emoji/24/000000/folded-hands-light-skin-tone.png"/> <br> I am Prashant and I am highly fascinated with open-source and development
+### Namaste <img src="https://img.icons8.com/emoji/24/000000/folded-hands-light-skin-tone.png"/>
+#### I am Prashant and I am highly fascinated with open-source and development
 
-Languages I prefer:<br>
+##### Languages I prefer:<br>
 <ul>
    <img src="https://img.icons8.com/color/48/000000/python.png">
    <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png">
    <img src="https://img.icons8.com/color/48/000000/c-programming.png">
 </ul>
 
-<strong>Interested in:</strong><br>
+##### Interested in:<br>
  <ul>
   <img src="https://img.icons8.com/color/64/000000/django.png"/>
   <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
@@ -26,7 +27,7 @@ Languages I prefer:<br>
 
 
 
-Ping me on any of these: <br>
+##### Ping me on any of these: <br>
 [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/@dodiya_prashant)
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/dodiya-prashant)
 [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/prance_always)
