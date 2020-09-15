@@ -1,18 +1,20 @@
 ## My Profile
-### Namaste 🙏 . I'm Prashant and I am highly fascinated with open-source
+### Namaste 🙏 I'm Prashant and I am highly fascinated with open-source
 
 Languages I prefer:<br>
 <p>
-   <a><img src="https://img.icons8.com/color/48/000000/python.png"></a>
-   <a><img src="https://img.icons8.com/color/48/000000/c-programming.png"></a>
-   <a><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"></a>
+   <img src="https://img.icons8.com/color/48/000000/python.png">
+   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png">
+   <img src="https://img.icons8.com/color/48/000000/c-programming.png">
 </p>
 
-Interesting:<br>
+Interested in:<br>
 <p>
-  <a><img src="https://icons8.com/icon/qV-JzWYl9dzP/django"></a>
-  <a><img src="https://img.icons8.com/dusk/48/000000/web.png"></a>
-  <a><img src="https://img.icons8.com/cotton/48/000000/artificial-intelligence.png"></a>
+  <img src="https://img.icons8.com/color/48/000000/django.png"/>
+  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
+  <img src="https://img.icons8.com/color/48/000000/source-code.png"/>
+  <img src="https://img.icons8.com/cute-clipart/64/000000/machine-learning.png"/>
+  <img src="https://img.icons8.com/cotton/48/000000/artificial-intelligence.png"/>
 </p>
 
 ![Prashant's github stats](https://github-readme-stats.vercel.app/api?username=pra17dod&theme=dark&show_icons=true&&count_private=true&hide=stars)
