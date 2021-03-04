@@ -6,7 +6,7 @@
 <ul>
    <img src="https://img.icons8.com/color/48/000000/python.png">
    <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png">
-   <img src="https://img.icons8.com/color/48/000000/c-programming.png">
+   <img src="https://img.icons8.com/color/48/000000/javascript.png">
 </ul>
 
 ##### Interested in:<br>
@@ -20,7 +20,7 @@
  </ul>
 
 
-![Prashant's github stats](https://github-readme-stats.vercel.app/api?username=pra17dod&theme=dark&show_icons=true&count_private=true&hide=stars)
+![Prashant's github stats](https://github-readme-stats.vercel.app/api?username=pra17dod&theme=radical&show_icons=true&count_private=true&hide=stars)
 
 <p> <img src="https://komarev.com/ghpvc/?username=pra17dod&color=green" alt="counter" /> </p>
 
@@ -37,7 +37,7 @@
 
 
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pra17dod&theme=dark&layout=compact&hide=css)](https://github.com/pra17dod/github-readme-stats&theme=vue)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pra17dod&theme=radical&layout=compact&hide=css)](https://github.com/pra17dod/github-readme-stats&theme=vue)
 
 
 
