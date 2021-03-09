@@ -1,47 +1,38 @@
-
-### Namaste <img src="https://img.icons8.com/emoji/24/000000/folded-hands-light-skin-tone.png"/>
-#### I am highly fascinated with open-source and development and <br> making efforts to reach closer to the farthest
+<div align="center">
+   
+<h2> Namaste <img src="https://img.icons8.com/emoji/24/000000/folded-hands-light-skin-tone.png"/> </h2>
+<h3> I am highly fascinated with open-source and development and <br> making efforts to reach closer to the farthest </h3>
 
 <hr>
 
-##### Languages I prefer:<br>
-<div align="center">
+<h4> Languages I prefer:<br> </h4>
 <ul>
-   <img src="https://img.icons8.com/color/48/000000/python.png"> &Tab;
-   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"> &Tab;
-   <img src="https://img.icons8.com/color/48/000000/javascript.png"> &Tab;
+   <img src="https://img.icons8.com/color/48/000000/python.png"> &nbsp;
+   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"> &nbsp;
+   <img src="https://img.icons8.com/color/48/000000/javascript.png"> &nbsp;
 </ul>
-</div>
 
-##### Interested in:<br>
-<div align="center">
+ <h4> Techs I use:<br> </h4>
  <ul>
-  <img src="https://img.icons8.com/color/64/000000/django.png"/> &Tab;
-  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/> &Tab;
-  <img src="https://img.icons8.com/color/48/000000/source-code.png"/> &Tab;
-  <img src="https://img.icons8.com/cute-clipart/48/000000/machine-learning.png"/> &Tab;
-  <img src="https://img.icons8.com/fluent/48/000000/blockchain-new-logo.png"/> &Tab;
-  <img src="https://img.icons8.com/cotton/48/000000/artificial-intelligence.png"/> &Tab;
+  <img src="https://img.icons8.com/color/64/000000/django.png"/> &nbsp;
+  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/> &nbsp;
+  <img src="https://img.icons8.com/color/48/000000/source-code.png"/> &nbsp;
+  <img src="https://img.icons8.com/cute-clipart/48/000000/machine-learning.png"/> &nbsp;
+  <img src="https://img.icons8.com/fluent/48/000000/blockchain-new-logo.png"/> &nbsp;
+  <img src="https://img.icons8.com/cotton/48/000000/artificial-intelligence.png"/> &nbsp;
  </ul>
 </div>
 <hr>
 
-<div align="center">
 <ul>
-<span>
    
 ![Prashant's github stats](https://github-readme-stats.vercel.app/api?username=pra17dod&theme=radical&show_icons=true&count_private=true&hide=stars)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pra17dod&theme=radical&layout=compact&hide=css)](https://github.com/pra17dod/github-readme-stats&theme=vue)
 
-</span>
-
 </ul>
-</div>
-
 <hr>
 
-<div align="center">
    
 ##### Ping me on any of these: <br>
 
