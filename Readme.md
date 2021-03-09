@@ -21,16 +21,14 @@
   <img src="https://img.icons8.com/fluent/48/000000/blockchain-new-logo.png"/> &nbsp;
   <img src="https://img.icons8.com/cotton/48/000000/artificial-intelligence.png"/> &nbsp;
  </ul>
-</div>
 <hr>
 
-<ul>
    
-![Prashant's github stats](https://github-readme-stats.vercel.app/api?username=pra17dod&theme=radical&show_icons=true&count_private=true&hide=stars)
+[![Prashant's github stats](https://github-readme-stats.vercel.app/api?username=pra17dod&theme=radical&show_icons=true&count_private=true&hide=stars)
+   
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pra17dod&theme=radical&layout=compact&hide=css)](https://github.com/pra17dod/github-readme-stats&theme=vue) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pra17dod&theme=radical&layout=compact&hide=css)](https://github.com/pra17dod/github-readme-stats&theme=vue)
 
-</ul>
 <hr>
 
    
