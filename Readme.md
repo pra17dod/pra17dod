@@ -24,8 +24,8 @@
 <hr>
 
 <span>   
-  <img src="https://github-readme-stats.vercel.app/api?username=pra17dod&theme=radical&show_icons=true&count_private=true&hide=" height=170> &nbsp;   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pra17dod&theme=radical&layout=compact&hide=css" height=170>
+  <img src="https://github-readme-stats.vercel.app/api?username=pra17dod&theme=radical&show_icons=true&count_private=true&hide=" height=140> &nbsp;   
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pra17dod&theme=radical&layout=compact&hide=css" height=140>
 </span>
 
 <hr>
