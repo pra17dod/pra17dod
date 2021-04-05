@@ -9,12 +9,14 @@
 <ul>
    <img src="https://img.icons8.com/color/48/000000/python.png"> &nbsp;
    <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"> &nbsp;
+   <img src="https://img.icons8.com/color/48/000000/c-programming.png"> &nbsp;
    <img src="https://img.icons8.com/color/48/000000/javascript.png"> &nbsp;
 </ul>
 
  <h4> Techs I use:<br> </h4>
  <ul>
   <img src="https://img.icons8.com/color/64/000000/django.png"> &nbsp;
+  <img src="https://img.icons8.com/color/48/000000/heroku.png"> &nbsp;
   <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"> &nbsp;
   <img src="https://img.icons8.com/color/48/000000/source-code.png"> &nbsp;
   <img src="https://img.icons8.com/cute-clipart/48/000000/machine-learning.png"> &nbsp;
