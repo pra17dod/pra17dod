@@ -24,6 +24,7 @@ jobs:
           repositories: 100                # Query only last 100 repositories
           repositories_forks: no           # Don't include forks
           repositories_affiliations: owner # Display only repositories where user is owner
+          pludin_isocalender: yes
           plugin_introduction: yes
           plugin_introduction_title: no
           plugin_languages: yes
