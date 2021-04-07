@@ -25,10 +25,7 @@
  </ul>
 <hr>
 
-<span>   
-  <img src="https://github-readme-stats.vercel.app/api?username=pra17dod&theme=radical&show_icons=true&count_private=true&hide=" height=140> &nbsp;   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pra17dod&theme=radical&layout=compact&hide=css" height=140>
-</span>
+![Metrics](https://github.com/pra17dod/pra17dod/blob/master/github-metrics.svg)
 
 <hr>
    
@@ -42,6 +39,3 @@
 <p> <img src="https://komarev.com/ghpvc/?username=pra17dod&color=green" alt="counter" /> </p>
 
 </div>
-
-
- 
