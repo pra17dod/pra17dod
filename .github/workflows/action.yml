@@ -16,11 +16,16 @@ jobs:
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
         with:
+          template: classic
           filename: metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
-          base: header
-          plugin_isocalendar: yes
+          base: header,repositories
+          repositories: 100                # Query only last 100 repositories
+          repositories_forks: no           # Don't include forks
+          repositories_affiliations: owner # Display only repositories where user is owner
+          plugin_introduction: yes
+          plugin_introduction_title: no
           plugin_languages: yes
           plugin_languages_ignored: html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell, gnuplot, vue, scala, c
           plugin_languages_skipped: lowlighter
@@ -28,17 +33,21 @@ jobs:
           plugin_topics: yes
           plugin_topics_limit: 0
           plugin_topics_mode: mastered
-          config_order: base.header, isocalendar, languages, topics
+          plugin_habits: yes
+          plugin_habits_from: 200       # Use 200 events to compute habits
+          plugin_habits_days: 14        # Keep only events from last 14 days
+          plugin_habits_facts: yes      # Display facts section
+          plugin_habits_charts: yes     # Display charts section
+          config_timezone: Asia/Kolkata # Set timezone
+          plugin_stars: yes
+          plugin_stars_limit: 4 # Limit to 4 entries
+          plugin_followup: yes
+          plugin_lines: yes
+          plugin_traffic: yes
+          plugin_activity: yes
+          plugin_activity_limit: 5    # Limit to 5 events
+          plugin_activity_days: 14    # Keep only events from last 14 days (can be set to 0 to disable limitations)
+          plugin_activity_filter: all # Show all events (use table above to filter events types)
+          config_order: base.header, introduction, base.repositories, isocalendar, languages, habits, followup, lines, traffic, activity, topics
+          
 
-      - name: 🦑 Personal metrics (anilist)
-        if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.personal.anilist.svg
-          token: NOT_NEEDED
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
-          plugin_anilist: yes
-          plugin_anilist_medias: anime
-          plugin_anilist_sections: favorites, characters
-          plugin_anilist_limit: 2
-          plugin_anilist_limit_characters: 22
