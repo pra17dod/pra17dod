@@ -25,7 +25,7 @@
  </ul>
 <hr>
 
-![Metrics](https://github.com/pra17dod/pra17dod/blob/master/github-metrics.svg)
+![Metrics](https://github.com/pra17dod/pra17dod/blob/master/metrics.svg)
 
 <hr>
    
