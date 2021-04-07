@@ -9,5 +9,5 @@
    </p>
 
    <p> <img src="https://komarev.com/ghpvc/?username=pra17dod&color=blue" alt="counter"> </p>
-   <p> <img src="https://github.com/pra17dod/pra17dod/blob/master/metrics.svg"></p>
+   <p> <img src="https://github.com/pra17dod/pra17dod/blob/master/metrics.svg" alt="Github Metrics"></p>
 
