@@ -2132,14 +2132,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="451.5102086687956" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="451.5102086687956" y="0" width="5.162284245873184" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="456.6724929146688" y="0" width="2.1981570364139387" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="458.8706499510827" y="0" width="0.6125347438375919" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="459.48318469492034" y="0" width="0.3347689455886396" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="459.81795364050896" y="0" width="0.11683741589512289" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="459.9347910564041" y="0" width="0.055156235645293566" height="8" fill="#e16737"/>
-                    <rect mask="url(#languages-bar)" x="459.9899472920494" y="0" width="0.010052707950625543" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="451.50967197783166" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="451.50967197783166" y="0" width="5.162278109685662" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="456.6719500875173" y="0" width="2.198701205975728" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="458.87065129349304" y="0" width="0.612534015743618" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="459.48318530923666" y="0" width="0.3347685476630453" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="459.8179538568997" y="0" width="0.11683727701546047" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="459.93479113391516" y="0" width="0.05515617008342429" height="8" fill="#e16737"/>
+                    <rect mask="url(#languages-bar)" x="459.9899473039986" y="0" width="0.01005269600139955" height="8" fill="#4F5D95"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -2907,7 +2907,7 @@ Name change of the Chrome Extension
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/>
                             </svg>
-                            670 views in last two weeks
+                            673 views in last two weeks
                         </div>
                     </section>
                 </div>
